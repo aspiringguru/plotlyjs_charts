@@ -29,11 +29,7 @@
 
 ## Quick start
 
-Some text
-
-- Instruction 1
-- Instruction 2
-- Instruction 3
+templates for various charts using plotly.
 
 ## Status
 
@@ -41,7 +37,7 @@ Issued as is.
 
 ## What's included
 
-Some text
+template html and data files 
 
 ```text
 ```
