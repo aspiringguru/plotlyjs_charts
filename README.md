@@ -37,7 +37,7 @@ Issued as is.
 
 ## What's included
 
-template html and data files 
+template html and data files
 
 ```text
 ```
@@ -60,7 +60,7 @@ Editor preferences are available in the [editor config](https://reponame/blob/ma
 
 ## Thanks
 
-blah
+We stand on the shoulders of giants. Just publishing this to add to the body of work I've learned from.
 
 ## Copyright and license
 
